@@ -130,4 +130,3 @@ Finalmente el archivo `.vscode/launch.json` quedará de la siguiente manera:
 
 Es la tarea del presente repositorio. Investigar el parámetro que se necesita activar para que el debug en VSCode funcione.
 
-[Aquí puedes verificar la solución a esta tarea, recuerda primero intentar](https://github.com/silabuzinc/step1-sol-ts)
